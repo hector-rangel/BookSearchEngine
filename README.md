@@ -65,7 +65,9 @@ WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 
 # Snapshots
-N/A
+Error I had when using npm install with starter code. I could not get the figured out or to work.
+![image](https://user-images.githubusercontent.com/79381847/129507467-eb7359fc-c0f8-4708-9c49-c5e13f67c14d.png)
+
 
 # Deployed Application
 N/A
